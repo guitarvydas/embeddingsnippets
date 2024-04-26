@@ -1,0 +1,7 @@
+simple_rwr {
+  rewriteString = "‛" c* "’"
+  c =
+    | "«" inner_c+ "»" -- interpolation
+    | inner_c          -- raw
+  inner_c = ~"‛" ~"’" ~"«" ~"»" any
+}

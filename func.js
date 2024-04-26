@@ -1,4 +1,4 @@
-let counter = 1;
+let counter = 42;
 function gensym (basename) {
     let n = counter;
     counter += 1;

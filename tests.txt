@@ -1,0 +1,3 @@
+‛function ${name} (x, y) { ${code} }’
+‛function ${gensym (name)} (x, y) { ${code} }’
+‛function ${counter = 100 , gensym (name)} (x, y) { ${code} }’

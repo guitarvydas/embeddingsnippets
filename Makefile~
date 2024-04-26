@@ -1,0 +1,6 @@
+variable:
+	node variable.js
+func:
+	node variable.js
+commaop:
+	node commaop.js

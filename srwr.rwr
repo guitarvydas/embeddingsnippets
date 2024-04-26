@@ -1,0 +1,5 @@
+simple_rwr {
+  rewriteString [lq c* rq] = ‛«lq»«c»«rq»’
+  c_interpolation [lb c+ rb] = ‛«lb»«c»«rb»’
+  c_raw [c] = ‛«c»’
+}

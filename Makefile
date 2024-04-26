@@ -1,4 +1,4 @@
-all: variable func commaop
+all: variable func commaop transpile
 
 variable:
 	@echo '*** simple variable ***'

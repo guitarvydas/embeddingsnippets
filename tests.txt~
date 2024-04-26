@@ -1,0 +1,2 @@
+‛function ${name} (x, y) { ${code} }’
+‛function ${gensym (name)} (x, y) { ${code} }’

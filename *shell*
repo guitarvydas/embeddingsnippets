@@ -1,0 +1,5 @@
+paultarvydas@Pauls-Mac-mini embeddingsnippets % rm README.md 
+rm README.md 
+paultarvydas@Pauls-Mac-mini embeddingsnippets % mv junk.txt tests.txt
+mv junk.txt tests.txt
+paultarvydas@Pauls-Mac-mini embeddingsnippets % 
